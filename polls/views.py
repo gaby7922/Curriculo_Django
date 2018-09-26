@@ -5,7 +5,7 @@ def index(request):
     data = {}
     data['personal'] = {"name": "Gaby",
                         "lastname": "Hernandez"}
-    data['address'] = {"home": "Ramon Laval 1638"}
+    data['address'] = {"home": "Ramon Laval 1638, La Reina"}
 
     data['abilities'] = {"programming_languages":['Python',' Php'],
                         "marking_language":"JavaScript, Html4, CSS",
